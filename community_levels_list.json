@@ -18,7 +18,8 @@
     "level 16": "https://raw.githubusercontent.com/gametesis/random_levels/refs/heads/main/16.json",
     "level 17": "https://raw.githubusercontent.com/gametesis/random_levels/refs/heads/main/17.json",
     "level 18": "https://raw.githubusercontent.com/gametesis/random_levels/refs/heads/main/18.json",
-    "level 19": "https://raw.githubusercontent.com/gametesis/random_levels/refs/heads/main/19.json"
+    "level 19": "https://raw.githubusercontent.com/gametesis/random_levels/refs/heads/main/19.json",
+    "level 20": "https://raw.githubusercontent.com/gametesis/random_levels/refs/heads/main/20.json"
   },
   "multi-phase levels": {
     "level 1": "https://raw.githubusercontent.com/gametesis/multi-stage-levels/refs/heads/main/multi_stage_level%201.json",
