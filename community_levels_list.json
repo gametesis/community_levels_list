@@ -33,7 +33,9 @@
     "level 9":"https://raw.githubusercontent.com/gametesis/random_levels/refs/heads/main/speed/9.json",
     "level 10":"https://raw.githubusercontent.com/gametesis/random_levels/refs/heads/main/speed/10.json",
     "level 11":"https://raw.githubusercontent.com/gametesis/random_levels/refs/heads/main/speed/11.json",
-    "level 12":"https://raw.githubusercontent.com/gametesis/random_levels/refs/heads/main/speed/12.json"
+    "level 12":"https://raw.githubusercontent.com/gametesis/random_levels/refs/heads/main/speed/12.json",
+    "level 13":"https://raw.githubusercontent.com/gametesis/random_levels/refs/heads/main/speed/13.json",
+    "level 14":"https://raw.githubusercontent.com/gametesis/random_levels/refs/heads/main/speed/14.json"
   },
   "multi-phase levels": {
     "level 1": "https://raw.githubusercontent.com/gametesis/multi-stage-levels/refs/heads/main/multi_stage_level%201.json",
