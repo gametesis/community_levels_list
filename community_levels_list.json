@@ -21,14 +21,23 @@
     "level 19": "https://raw.githubusercontent.com/gametesis/random_levels/refs/heads/main/19.json",
     "level 20": "https://raw.githubusercontent.com/gametesis/random_levels/refs/heads/main/20.json"
   },
+  "speed levels":{
+    "level 1":"https://raw.githubusercontent.com/gametesis/random_levels/refs/heads/main/speed/1.json",
+    "level 2":"https://raw.githubusercontent.com/gametesis/random_levels/refs/heads/main/speed/2.json",
+    "level 3":"https://raw.githubusercontent.com/gametesis/random_levels/refs/heads/main/speed/3.json",
+    "level 4":"https://raw.githubusercontent.com/gametesis/random_levels/refs/heads/main/speed/4.json",
+    "level 5":"https://raw.githubusercontent.com/gametesis/random_levels/refs/heads/main/speed/5.json",
+    "level 6":"https://raw.githubusercontent.com/gametesis/random_levels/refs/heads/main/speed/6.json",
+    "level 7":"https://raw.githubusercontent.com/gametesis/random_levels/refs/heads/main/speed/7.json",
+    "level 8":"https://raw.githubusercontent.com/gametesis/random_levels/refs/heads/main/speed/8.json",
+    "level 9":"https://raw.githubusercontent.com/gametesis/random_levels/refs/heads/main/speed/9.json",
+    "level 10":"https://raw.githubusercontent.com/gametesis/random_levels/refs/heads/main/speed/10.json",
+    "level 11":"https://raw.githubusercontent.com/gametesis/random_levels/refs/heads/main/speed/11.json",
+    "level 12":"https://raw.githubusercontent.com/gametesis/random_levels/refs/heads/main/speed/12.json"
+  },
   "multi-phase levels": {
     "level 1": "https://raw.githubusercontent.com/gametesis/multi-stage-levels/refs/heads/main/multi_stage_level%201.json",
     "level 2": "https://raw.githubusercontent.com/gametesis/multi-stage-levels/refs/heads/main/multi_stage_level%202.json"
-  },
-  "hard levels": {
-    "level 1": "https://raw.githubusercontent.com/gametesis/top-train_level/refs/heads/main/top_train_level.json",
-    "level 2": "https://raw.githubusercontent.com/gametesis/top-train_level/refs/heads/main/2.json",
-    "level 3": "https://raw.githubusercontent.com/gametesis/top-train_level/refs/heads/main/3.json"
   },
   "legacy levels": {
     "level 1": "https://raw.githubusercontent.com/gametesis/second-set-community-levels/refs/heads/main/1.json",
@@ -79,5 +88,10 @@
     "level 16": "https://raw.githubusercontent.com/gametesis/first-community-levels/main/community/c27.json",
     "level 17": "https://raw.githubusercontent.com/gametesis/first-community-levels/main/community/c28.json",
     "level 18": "https://raw.githubusercontent.com/gametesis/first-community-levels/main/community/c10.json"
+  },
+  "hard levels": {
+    "level 1": "https://raw.githubusercontent.com/gametesis/top-train_level/refs/heads/main/top_train_level.json",
+    "level 2": "https://raw.githubusercontent.com/gametesis/top-train_level/refs/heads/main/2.json",
+    "level 3": "https://raw.githubusercontent.com/gametesis/top-train_level/refs/heads/main/3.json"
   }
 }
